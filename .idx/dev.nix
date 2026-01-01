@@ -7,6 +7,7 @@
   packages = [
     # pkgs.go
     pkgs.python314
+    pkgs.dvc
     pkgs.busybox
     pkgs.uv
     pkgs.python312Packages.conda
