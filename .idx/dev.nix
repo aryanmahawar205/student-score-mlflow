@@ -8,6 +8,7 @@
     # pkgs.go
     pkgs.python314
     pkgs.uv
+    pkgs.python312Packages.conda
     # pkgs.python311Packages.pip
     # pkgs.nodejs_20
     # pkgs.nodePackages.nodemon
