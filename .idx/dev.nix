@@ -8,9 +8,11 @@
     # pkgs.go
     pkgs.python314
     pkgs.dvc
+    pkgs.doas-sudo-shim
+    pkgs.python312Packages.pip
+    pkgs.doas
     pkgs.busybox
     pkgs.uv
-    pkgs.python312Packages.conda
     pkgs.postgresql
     # pkgs.python311Packages.pip
     # pkgs.nodejs_20
