@@ -157,7 +157,7 @@ python app.py
 
 Experiments and models are tracked using Dagshub MLflow:
 ```
-https://dagshub.com/aryanmahawar205/student-score-mlflow.mlflow
+https://dagshub.com/aryanmahawar205/student-score-mlflow
 ```
 
 You can visualize:
